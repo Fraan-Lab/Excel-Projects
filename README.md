@@ -6,7 +6,7 @@
 
 ## Contents
   - [x] Data Cleaning, Analysis and Vizualization 
- #### PROYECT 1: Hotel Reservations [[Kaggle.com](https://www.kaggle.com/)]
+ #### PROYECT 1: [[Hotel Reservations](https://github.com/Fraan-Lab/Excel-Portfolio/blob/main/Hotel%20Reservations/README.md)]
 
 |  Summary | Resumen  |
 | ---- | ---- |
