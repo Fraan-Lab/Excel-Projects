@@ -12,4 +12,8 @@
 
 ## Analysis & Vizualization
 
+[ENG] The cleaned data set was uploaded to Microsoft Excel in order to create a Dashboard for the hotel, which compares the details of the bookings made between July 2017 and December 2022. 
+
+[ESP] El conjunto de datos limpiados se cargaron a Microsoft Excel con la finalidad de crear un Dashboard del hotel, en el cual se compara los detalles de las reservaciones realizadas entre julio del año 2017 y diciembre del año 2022. 
+
 ![image](https://github.com/Fraan-Lab/Excel-Portfolio/blob/main/Hotel%20Reservations/Hotel-Reservation-Dashboard.png)
