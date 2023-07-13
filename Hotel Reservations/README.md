@@ -6,9 +6,9 @@
 
 ## Data Processing
 
-[ENG] First, in Power Query we removed non-numeric characters in the room_type_reserved field by replacing these non-numeric values with empty spaces, thus making it easier to plot this field later.
+[ENG] In Power Query, non-numeric characters in the room_type_reserved field were eliminated by replacing these non-numeric values with empty spaces, thus making it easier to plot this field later.
 
-[ESP] Primeramente, en Power Query se eliminaron caracteres no numéricos en el campo room_type_reserved reemplazando dichos valores no numéricos por espacios vacíos, de esta manera posteriormente se facilita graficar este campo.
+[ESP] En Power Query se eliminaron caracteres no numéricos en el campo room_type_reserved reemplazando dichos valores no numéricos por espacios vacíos, de esta manera posteriormente se facilita graficar este campo.
 
 ## Analysis & Vizualization
 
