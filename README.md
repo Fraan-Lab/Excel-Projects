@@ -8,4 +8,4 @@
   - [x] Data Cleaning, Analysis and Vizualization 
  #### PROYECT 1: Hotel Reservations [[Kaggle.com](https://www.kaggle.com/)]
 
-![image](https://github.com/Fraan-Lab/Excel-Portfolio/blob/main/Hotel%20Reservations/Hotel%20Reservation%20Dashboard.png)
+![image](https://github.com/Fraan-Lab/Excel-Portfolio/blob/main/Hotel%20Reservations/Hotel-Reservation-Dashboard.png)
