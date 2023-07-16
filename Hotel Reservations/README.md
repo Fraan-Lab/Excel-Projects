@@ -6,9 +6,9 @@
 
 ## Data Processing
 
-[ENG] In Power Query, non-numeric characters in the room_type_reserved field were eliminated by replacing these non-numeric values with empty spaces, thus making it easier to plot this field later.
+[ENG] In Power Query, non-numeric characters in the room_type_reserved field were eliminated by replacing these non-numeric values with empty spaces, thus making it easier to plot this field later. Then, the transformed dataset was loaded into Microsoft Excel in order to start summarizing and analyzing this data in a new sheet named Pivot_Tables.
 
-[ESP] En Power Query se eliminaron caracteres no numéricos en el campo room_type_reserved reemplazando dichos valores no numéricos por espacios vacíos, de esta manera posteriormente se facilita graficar este campo.
+[ESP] En Power Query se eliminaron caracteres no numéricos en el campo room_type_reserved reemplazando dichos valores no numéricos por espacios vacíos, de esta manera posteriormente se facilita graficar este campo. Luego, el conjunto de datos transformados se cargaron a Microsoft Excel con la finalidad de comenzar a resumir y analizar estos datos en una nueva hoja nombrada Pivot_Tables.
 
 ## Analysis & Vizualization
 
