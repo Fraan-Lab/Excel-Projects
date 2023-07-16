@@ -20,9 +20,9 @@
 
 ## Analysis
 
-[ENG] Firstly, according to the first card titled as GUESTS, it shows that in the second half of the year 2017, a total of 11,892 guests were registered and in the year 2018, a total of 58,853 guests were registered. Therefore, according to the reservation record, in 2018 there were six times as many people registered compared to the 2017 record.
+[ENG] Firstly, according to the first card titled as GUESTS, it shows that in the second half of the year 2017, a total of 11,892 guests were registered and in the year 2018, a total of 58,853 guests were registered. Therefore, according to the reservation record, in 2018 there were six times as many people registered compared to the 2017 record. Likewise, according to the cards titled Adults and Children, the comparison between 2017 and 2018 is similar.
 
-[ESP] Primeramente, de acuerdo a la primera tarjeta titulada como GUESTS, se demuestra que en el segundo semestre del año 2017 se registraron un total de 11.892 huespédes y en el año 2018 se registraron un total de 58.853 huespédes. Por lo tanto, de acuerdo al registro de reservaciones, en 2018 se registró el séxtuple de personas en comparación al registro de 2017.
+[ESP] Primeramente, de acuerdo a la primera tarjeta titulada como GUESTS, se demuestra que en el segundo semestre del año 2017 se registraron un total de 11.892 huespédes y en el año 2018 se registraron un total de 58.853 huespédes. Por lo tanto, de acuerdo al registro de reservaciones, en 2018 se registró el séxtuple de personas en comparación al registro de 2017. Asimismo, de acuerdo las tarjetas tituladas como Adults y Children, la comparación entre 2017 y 2018 es similar.
 
 ![image](https://github.com/Fraan-Lab/Excel-Portfolio/blob/main/Hotel%20Reservations/Hotel%20Reservation%20Dashboard%202017.png)
 ![image](https://github.com/Fraan-Lab/Excel-Portfolio/blob/main/Hotel%20Reservations/Hotel%20Reservation%20Dashboard%202018.png)
