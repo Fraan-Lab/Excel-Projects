@@ -5,7 +5,7 @@
 <p> En esta sección enlistaré los proyectos de análisis de datos realizados con Microsoft Excel. </p>
 
 ## Contents
-  - [x] Data Cleaning, Analysis and Vizualization 
+  - [x] Data Processing, Analysis and Vizualization 
  #### PROYECT 1: [[Hotel Reservations](https://github.com/Fraan-Lab/Excel-Portfolio/blob/main/Hotel%20Reservations/README.md)]
 
 |  Summary | Resumen  |
