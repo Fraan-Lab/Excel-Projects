@@ -11,6 +11,6 @@
 |  Summary | Resumen  |
 | ---- | ---- |
 | The dataset belongs to one hotel and details reservations made between 2017-07-01 and 2018-12-31.| El conjunto de datos pertenece a un hotel y detalla las reservaciones realizadas entre el 01-07-2017 y el 31-12-2018.|
-| First, a data processing was performed in Power Query, then a Dashboard was created in Microsoft Excel. The Dashboard created provides a comparative summary of the reservations made between 2021 and 2022.| Primero se efectuó un procesamiento de datos en Power Query, luego se realizó un Dashboard en Microsoft Excel. El Dashboard creado muestra un resumen comparativo de las reservaciones realizadas entre el año 2021 y 2022. |
+| The data were first processed in Power Query and then summarized in Microsoft Excel in 12 pivot tables created on an additional sheet. Based on the results of the pivot tables, a Dashboard was created on an additional sheet that summarizes and compares relevant aspects of the reservations made between 2021 and 2022.| Primeramente se efectuó un procesamiento de datos en Power Query y luego en Microsoft Excel estos datos se resumieron en 12 tablas dinámicas creadas en una hoja adicional. A partir de los resultados de las tablas dinámicas, en otra hoja adicional se elaboró un Dashboard que resume y compara aspectos relevantes de las reservaciones realizadas entre el año 2021 y 2022. |
 
 ![image](https://github.com/Fraan-Lab/Excel-Portfolio/blob/main/Hotel%20Reservations/Hotel-Reservation-Dashboard.png)
