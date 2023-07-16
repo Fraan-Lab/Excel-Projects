@@ -12,8 +12,8 @@
 
 ## Analysis & Vizualization
 
-[ENG] The cleaned data set was uploaded to Microsoft Excel in order to create a Dashboard for the hotel, which compares the details of the bookings made between July 2017 and December 2022. 
+[ENG] From the data summarized and analyzed in the Pivot_Tables sheet, a Dashboard was elaborated in a new sheet named Hotel_Dashboard in order to compare all the relevant details of the reservations made between July 2017 and December 2022.
 
-[ESP] El conjunto de datos limpiados se cargaron a Microsoft Excel con la finalidad de crear un Dashboard del hotel, en el cual se compara los detalles de las reservaciones realizadas entre julio del año 2017 y diciembre del año 2022. 
+[ESP] A partir de los datos resumidos y analizados en la hoja Pivot_Tables, en una nueva hoja nombrada Hotel_Dashboard se elaboró un Dashboard con la finalidad de compara todos los detalles relevantes de las reservaciones realizadas entre julio del año 2017 y diciembre del año 2022.
 
 ![image](https://github.com/Fraan-Lab/Excel-Portfolio/blob/main/Hotel%20Reservations/Hotel-Reservation-Dashboard.png)
