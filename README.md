@@ -1,4 +1,4 @@
-# Excel-Projects
+# Excel Projects
 
 <p> In this section I will list the data analysis projects realized with Microsoft Excel. </p>
 
